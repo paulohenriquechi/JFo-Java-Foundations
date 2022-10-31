@@ -1,18 +1,34 @@
-## Getting Started
+# Java Foundations
+## Exercícios - Seção 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Parte 0: Crie um projeto Java e adicione um arquivo .java existente
+Visão geral
 
-## Folder Structure
+Os arquivos de código deste curso são fornecidos como arquivos .java, que podem ser adicionados a projetos Java no IDE de sua escolha. 
+Tarefas
 
-The workspace contains two folders by default, where:
+1.	No Material de Referência desta lição, você encontrará instruções detalhadas sobre como criar novos projetos e adicionar um arquivo .java existente ao projeto para NetBeans e Eclipse. Se você estiver usando um desses IDEs Java, siga as etapas descritas no Material de Referência relevante. Se estiver usando outro IDE Java, consulte a documentação do IDE para obter informações sobre como criar um novo projeto e adicionar um arquivo .java existente a ele.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Parte 2: Crie um projeto Java com uma classe main 
+Visão geral
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Crie um novo projeto Java e uma classe Java sem usar os arquivos de código fornecidos.
+Tarefas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1.	A Parte 2 do Material de Referência desta lição, que você usou anteriormente para adicionar um arquivo Java existente a um projeto, contém instruções detalhadas sobre como criar um novo projeto com uma classe main do Java para NetBeans e Eclipse. 
 
-## Dependency Management
+Se você estiver usando um desses IDEs Java, siga as etapas descritas na parte 2 do Material de Referência relevante. Se estiver usando outro IDE Java, consulte a documentação do IDE para obter informações sobre como criar um novo projeto e adicionar um arquivo .java existente a ele.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Parte 3: Teste seu código 
+Visão geral
+Faça algumas edições no código e observe os resultados.
+
+1.	Edite o código de modo que ele imprima uma mensagem diferente de “Hello World!”.
+•	Compile e execute o código para verificar o efeito das alterações que foram feitas.
+
+2.	Altere o ‘S’ em ‘System’ para minúsculo e tente compilar.
+•	A sintaxe Java faz distinção entre letras maiúsculas e minúsculas?
+
+3.	Remova o ponto e vírgula (;) e tente compilar.
+•	O ponto e vírgula é importante para a sintaxe Java?
+
