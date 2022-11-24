@@ -31,5 +31,6 @@ public class App {
         System.out.println("Digite o quarto número: ");
         double nota4 = input.nextDouble();
         System.out.println("A média dos números informados acima é de: "+(nota1+nota2+nota3+nota4)/4);
+        input.close();
     }
 }
