@@ -24,4 +24,20 @@ public class LoopShape {
             }
         }
     }
+    public static void createTriangle(int a){
+        System.out.println("#");
+        for (int i = 0; i < a-2; i++) {
+            System.out.print("#");
+            for (int j = 0; j < i; j++) {
+                System.out.print(" ");
+            }
+            if(i!=a-1){
+                System.out.println("#");
+            }
+        }
+        for (int i = 0; i < a; i++) {
+            System.out.print("#");
+        }
+        System.out.println("");
+    }
 }
