@@ -1,7 +1,7 @@
 # Java Foundations
-## Exercícios - Seção 3
+Exercícios - Seção 3
 
-Criar um Jogo do JavaLibs
+## Criar um Jogo do JavaLibs
 Visão Geral
 
 A Seção 3 mostrou tudo o que você precisará saber para criar novamente um programa JavaLibs semelhante ao que você executou no início da seção. Pode ser que tenha um pouco de dificuldade, mas é um desafio para o qual você com certeza está preparado. Os requisitos do programa são descritos abaixo. Boa sorte e divirta-se!
