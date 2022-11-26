@@ -1,7 +1,7 @@
 # Java Foundations
 ## Exercícios - Seção 1
 
-Parte 0: Crie um projeto Java e adicione um arquivo .java existente
+Crie um projeto Java e adicione um arquivo .java existente
 Visão geral
 
 Os arquivos de código deste curso são fornecidos como arquivos .java, que podem ser adicionados a projetos Java no IDE de sua escolha. 
