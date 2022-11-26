@@ -1,18 +1,29 @@
-## Getting Started
+# Java Foundations
+## Exercícios - Seção 3
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Criar um Jogo do JavaLibs
+Visão Geral
 
-## Folder Structure
+A Seção 3 mostrou tudo o que você precisará saber para criar novamente um programa JavaLibs semelhante ao que você executou no início da seção. Pode ser que tenha um pouco de dificuldade, mas é um desafio para o qual você com certeza está preparado. Os requisitos do programa são descritos abaixo. Boa sorte e divirta-se!
+Tarefas
 
-The workspace contains two folders by default, where:
+Sua meta é criar um programa semelhante ao JavaLibs.  Escreva uma história em que determinadas partes do texto da história resultante sejam modificadas pela entrada do usuário.  Solicite que o usuário insira várias entradas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Você pode aceitar que o usuário forneça entradas de várias maneiras, inclusive uma entrada JOptionPane ou Scanner do console. Mas escolha um único método. Não use vários métodos de aceitação de entrada. Da mesma forma, se você usar JOptionPane para obter a entrada, use JOptionPane para mostrar a história resultante. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Ao exibir a saída da sua história, certifique-se de que todo o texto esteja visível ao mesmo tempo. O texto não deve ultrapassar a área de exibição da tela do computador nem a janela de saída. Sua história precisará ser dividida em várias linhas, em vez de ser impressa em uma linha de saída gigante. Isso fará com que a saída seja mais clara e o programa pareça mais amigável ao usuário.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Considere a possibilidade de o programa travar se o usuário inserir dados inapropriados. Ou seja, não há problema em fazer com que o programa trave porque você esperava que o usuário digitasse um número e, em vez disso, ele digitou uma String. Abordaremos o tratamento de exceções mais adiante no curso.
 
-## Dependency Management
+Seu programa também deve fazer o seguinte:
+-	Aceitar pelo menos uma entrada, que deverá ser analisada como String
+-	Aceitar pelo menos uma entrada, que deverá ser analisada como int
+-	Aceitar pelo menos uma entrada, que deverá ser analisada como double
+-	Usar pelo menos uma entrada em uma pergunta para o usuário
+-	Fazer cálculos com pelo menos uma entrada int
+-	Fazer cálculos com pelo menos uma entrada double
+-	Aceitar pelo menos um total de dez entradas 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse conjunto de problemas pode criar todo o programa dentro do método principal. 
+
+O arquivo JavaLibsPractice.java está disponível para ajudar você a começar.
