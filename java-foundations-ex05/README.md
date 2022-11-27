@@ -1,8 +1,8 @@
 # Java Foundations
 Exercícios - Seção 5
 
-## Exercício 5-1: Determinando a cor no espectro visível
-Visão Geral
+# Exercício 5-1: Determinando a cor no espectro visível
+## Visão Geral
 
 Crie o programa Java interativo ColorRange.java. Quando determinado comprimento de onda em nanômetros for fornecido, ele retornará a cor correspondente no espectro visível.
 
@@ -14,7 +14,7 @@ Crie o programa Java interativo ColorRange.java. Quando determinado comprimento 
 - Laranja |	590-620
 - Vermelho |	620-750
 
-Tarefa
+## Tarefa
 
 Você deve implementar o seguinte usando uma instrução de decisão if adequada:
 1. Solicite que o usuário insira o comprimento de onda; ele deve ser do tipo double.
@@ -42,12 +42,12 @@ The entered wavelength is not a part of the visible spectrum
 
 O arquivo ColorRange.java está disponível para ajudar você a começar.
 
-## Problema 5-2: Determinando a próxima cor de um sinal de trânsito
-Visão Geral
+# Problema 5-2: Determinando a próxima cor de um sinal de trânsito
+## Visão Geral
 
 O comportamento normal de um sinal de trânsito é alternar sucessivamente de Vermelho para Verde para Amarelo para Vermelho (e continuar nesse padrão). Crie o programa java TrafficLightChecker.java que determinará a próxima cor de um sinal de trânsito neste padrão: de Vermelho para Verde para Amarelo para Vermelho, com base no sinal de trânsito atual fornecido pelo usuário.
 
-Tarefa
+## Tarefa
 
 Você deve implementar o seguinte usando uma instrução de decisão if adequada:
 1. Faça com que o usuário digite o valor de currentColor. 
