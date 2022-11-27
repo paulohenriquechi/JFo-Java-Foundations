@@ -1,8 +1,8 @@
 # Java Foundations
 Exercícios - Seção 4
 
-## Problema 1: Escrevendo métodos 
-Visão Geral
+# Problema 1: Escrevendo métodos 
+## Visão Geral
 
 Neste exercício, você escreverá métodos que retornam valores para os seguintes cenários:
 
@@ -38,15 +38,15 @@ Saída Esperada:
 
 Os arquivos ComputeMethods.java e TestClass.java estão disponíveis para ajudar você a começar.
 
-## Problema 2: Processando um nome
-Visão Geral
+# Problema 2: Processando um nome
+## Visão Geral
 
 Neste exercício, você desenvolverá um programa java que processa um nome inserido pelo usuário. 
 O programa faz o seguinte:
 Lê o primeiro e o último nomes (lê uma linha inteira como uma única string) e imprime o último nome 
 seguido de uma vírgula e da primeira inicial. (Considere que o usuário digite um nome válido.) 
 
-Tarefa
+## Tarefa
 Você deve implementar o seguinte:
 1. Faça com que o usuário insira um nome.
 2. Extraia o primeiro e o último nomes do nome inserido pelo usuário. 
