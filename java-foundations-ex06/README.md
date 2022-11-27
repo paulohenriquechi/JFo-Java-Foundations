@@ -1,12 +1,12 @@
 # Java Foundations
 Exercícios - Seção 6
 
-## Problema 1: Validando um PIN Bancário
-Visão Geral
+# Problema 1: Validando um PIN Bancário
+## Visão Geral
 
 Desenvolva um programa Java para validar um PIN bancário de um cliente. Use um loop while para repetir o código até que um PIN válido seja inserido.
  
-Tarefa
+## Tarefa
 
 1. Declare um PIN inteiro válido.
 2. Solicite que o usuário insira o PIN.
@@ -19,12 +19,12 @@ acesso à conta.
  
 O arquivo ValidatePin.java está disponível para ajudar você a começar.
 
-## Problema 2: Exibindo Múltiplos de um Número
-Visão Geral
+# Problema 2: Exibindo Múltiplos de um Número
+## Visão Geral
 
 Desenvolva um programa java para calcular os múltiplos de determinado número usando um loop for.
 
-Tarefa
+## Tarefa
 
 Faça com que o usuário insira um número e use um loop for para exibir todos os múltiplos desse número 
 de 1 a 12.
@@ -43,15 +43,15 @@ Saída Esperada:
 - 7*11 = 77
 - 7*12 = 84
 
-## Problema 3: Arte ASCII Programática
-Visão Geral
+# Problema 3: Arte ASCII Programática
+## Visão Geral
 
 O uso de texto para criar uma imagem é um processo conhecido como arte ASCII. Na seção 2, criamos um gato usando arte ASCII. Para isso, precisamos digitar cada caractere na arte que queríamos criar. Neste exercício, você encontrará uma maneira de desenhar formas básicas de maneira programática em tamanhos personalizáveis.
 
 - Retângulo 5x4
 - Triângulo isósceles direito 5x5
 
-Tarefa
+## Tarefa
 
 Complete os dois métodos a seguir em LoopShape.java:
 -	createRectangle(): este método aceita dois argumentos para largura e altura que devem ser usados para imprimir um retângulo.
